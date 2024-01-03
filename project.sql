@@ -1,0 +1,1 @@
+select transactions.*,date.* from transactions inner join date on transactions.order_date = date.date where year = 2020 and market_code='Mark001';
