@@ -17,11 +17,12 @@ https://lookerstudio.google.com/s/i7hjujjk3Uk
 
 View All Tables and Clean Data
 
+( eg: Sales amount should be positive , No NULL values , currency should be in one form (USD or INR) etc.)
+
 SELECT * FROM transactions ;
 
 ![image](https://github.com/TheDhumakSpot/Sales_Dashboard/assets/118016094/41b7da35-a2a8-487e-916e-8e3cabe7fb81)
 
-( eg: Sales amount should be positive , No NULL values , currency should be in one form (USD or INR) etc.)
 
 JOIN tables based on a common key (column)
 Since there are multiple common keys, you can join multiple tables together
