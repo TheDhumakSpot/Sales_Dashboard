@@ -49,7 +49,6 @@ Create Insights from imported data and make a Dashboard
 https://lookerstudio.google.com/s/i7hjujjk3Uk
 ![image](https://github.com/TheDhumakSpot/Sales_Dashboard/assets/118016094/6853471b-72a9-4eea-bee3-4bda83ce1253)
 
-https://lookerstudio.google.com/reporting/bd54bccd-63d8-427d-b27b-94252e1c7cca/page/6yYmD
 
 # Dashboard using PowerBI
 
