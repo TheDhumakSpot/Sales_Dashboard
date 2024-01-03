@@ -1,4 +1,4 @@
-# Sales_Dashboard using MySQL Database to store data and Looker Studio and PowerBI for Report
+# Sales Dashboard using MySQL Database to store data and Looker Studio and PowerBI for Report
 
 Reference : codebasics yt
 
